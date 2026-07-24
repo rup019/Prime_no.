@@ -47,8 +47,9 @@ Operators - Modulo Operator (`%`) - `for` Loop - `if` Statement
 -   Apply loops and conditions.
 -   Improve problem-solving skills.
 
+
 ## Author
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Name:** RUPIN KAUL
 
-**GitHub:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**GitHub:** rup019
